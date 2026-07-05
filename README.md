@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0120-triangle) |
 ## Tree
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
