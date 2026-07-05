@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
