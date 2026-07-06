@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
