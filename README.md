@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0136-single-number) |
+| [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
