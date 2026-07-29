@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -234,8 +239,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
