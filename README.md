@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
