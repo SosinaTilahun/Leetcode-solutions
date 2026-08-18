@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Graph Theory
@@ -294,4 +297,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
