@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
 ## String
 |  |
 | ------- |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
