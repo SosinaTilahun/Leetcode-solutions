@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
