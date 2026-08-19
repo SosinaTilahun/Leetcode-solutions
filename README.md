@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
