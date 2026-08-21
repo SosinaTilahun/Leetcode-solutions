@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
@@ -369,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
