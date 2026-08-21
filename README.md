@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
@@ -343,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
