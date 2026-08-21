@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0164-maximum-gap) |
 | [1288-remove-covered-intervals](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SosinaTilahun/Leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
